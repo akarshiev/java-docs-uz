@@ -7,7 +7,7 @@ belgilanishi kerakligini anglatadi.
 
 ## Ma'lumot Turlari (Data Types)
 
-![Data Types in Java](./img/img.png)
+![Data Types in Java](../Images/Data_types.png)
 
 Java-da ikki turdagi ma'lumot turlari mavjud:
 

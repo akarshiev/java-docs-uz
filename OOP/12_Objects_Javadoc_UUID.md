@@ -338,7 +338,7 @@ class Person {
  * 
  * <p><b>Eslatma:</b> Bu klass immutable emas. Balans o'zgartirilishi mumkin.</p>
  * 
- * @author Abdukarim Shukurov
+ * @author Abdukarim Karshiev
  * @version 1.0
  * @since 2024
  * @see <a href="https://example.com">Bank API</a>
@@ -634,7 +634,7 @@ public class BankAccount {
  * account.withdraw(200.0);
  * </pre>
  * 
- * @author Abdukarim Shukurov
+ * @author Abdukarim Karshiev
  * @version 1.0
  * @since 2024
  */

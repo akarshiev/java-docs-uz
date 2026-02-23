@@ -748,7 +748,7 @@ public class AdvancedRegexExamples {
 
 ---
 
-**Keyingi mavzu:** [Java Networking](./09_Java_Networking.md)  
+**Keyingi mavzu:** [Java Networking](./09%20-%20Git%20va%20GitHub.md)  
 **[Mundarijaga qaytish](../README.md)**
 
 > O'rganishda davom etamiz! 🚀

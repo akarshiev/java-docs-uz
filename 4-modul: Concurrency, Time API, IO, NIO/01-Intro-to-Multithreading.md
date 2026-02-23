@@ -542,7 +542,7 @@ MultiThreading - bu zamonaviy dasturlashda muhim tushuncha bo'lib, u:
 
 ---
 
-**Keyingi mavzu:** [Thread Synchronization](./02_Thread_Synchronization.md)  
+**Keyingi mavzu:** [Thread Synchronization](./02-java-synchronization.md)  
 **[Mundarijaga qaytish](../README.md)**
 
 > O'rganishda davom etamiz! 🚀

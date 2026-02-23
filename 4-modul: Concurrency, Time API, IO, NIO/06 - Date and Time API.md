@@ -884,7 +884,7 @@ public class RealWorldExamples {
 
 ---
 
-**Keyingi mavzu:** [Java I/O](./07_Java_IO.md)  
+**Keyingi mavzu:** [Java I/O](./07%20-%20Input-Output%20Streams.md)  
 **[Mundarijaga qaytish](../README.md)**
 
 > O'rganishda davom etamiz! 🚀

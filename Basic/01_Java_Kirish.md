@@ -168,6 +168,6 @@ public class Example {  // 'public', 'class' - keywords; 'Example' - identifier
 6. **Argumentlar** - dasturga ish vaqtida beriladigan qiymatlar
 
 **Keyingi mavzu**: [Java Sintaksisi va Dastur Tuzilishi](./02_Syntax_Types.md)
-**[Mundarija qaytish](./README.md)**
+**[Mundarija qaytish](../README.md)**
 
 > ⚡️ O'rganishda davom etamiz.

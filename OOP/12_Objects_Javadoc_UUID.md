@@ -1004,11 +1004,11 @@ Asosiy tushunchalarni yaxshi o'zlashtirish keyingi murakkab mavzularni o'rganish
 
 ### 1. Intervyu Savollari
 O'z bilimingizni sinab ko'ring:  
-[Interviews/02_OOP_interviews.md](./Interviews/02_OOP_interviews.md)
+[Interviews/02_OOP_interviews.md](../Interviews/02_OOP_interviews.md)
 
 ### 2. Loyiha Topshiriqlari
 Amaliyot uchun:  
-[assignments/02_OOP_assignment.md](./assignments/02_OOP_assignment.md)
+[Assignments/02_OOP_assignment.md](../Assignments/02_OOP_assignment.md)
 
 ### 3. Mundarijaga Qaytish
 [Asosiy README.md](../README.md)

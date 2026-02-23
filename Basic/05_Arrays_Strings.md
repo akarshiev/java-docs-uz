@@ -381,12 +381,12 @@ public class StringFormat {
 ### 1. Intervyu Savollari
 
 O'z bilimingizni sinab ko'ring:  
-[Interviews/01_Basics_Interview.md](./Interviews/01_Basics_Interview.md)
+[Interviews/01_Basics_Interview.md](../Interviews/01_Basics_Interview.md)
 
 ### 2. Loyiha Topshiriqlari
 
 Amaliyot uchun:  
-[assignments/01_Basic_assignment.md](./assignments/01_Basic_assignment.md)
+[Assignments/01_Basics_assignment.md](../Assignments/01_Basics_assignment.md)
 
 ### 3. Mundarijaga Qaytish
 

@@ -685,7 +685,7 @@ git push --tags          # Tag larni push
 
 ---
 
-**Keyingi mavzu:** [Build Tools (Maven/Gradle)](./10_Build_Tools.md)  
+**Keyingi mavzu:** [Build Tools (Maven/Gradle)](./10%20-%20Logging%20API.md)  
 **[Mundarijaga qaytish](../README.md)**
 
 > O'rganishda davom etamiz! 🚀

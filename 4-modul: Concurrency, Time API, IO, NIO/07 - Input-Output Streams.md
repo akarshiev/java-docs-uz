@@ -1228,7 +1228,7 @@ public class BookDatabase {
 
 ---
 
-**Keyingi mavzu:** [Java Networking](./08_Java_Networking.md)  
+**Keyingi mavzu:** [Java Networking](./08%20-%20Regular%20Expressions.md)  
 **[Mundarijaga qaytish](../README.md)**
 
 > O'rganishda davom etamiz! 🚀
